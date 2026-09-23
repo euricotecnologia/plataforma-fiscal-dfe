@@ -1,0 +1,21 @@
+Plataforma de Documentos Fiscais NFe, NFCe, SAT, CTe e MDFe com codigo fontes.
+
+Faça seu sistema enviar os documentos fiscais direto para a Nuvem para seu Contador ter acesso total com toda segurança, organização e praticidade.
+
+Conheça a Plataforma DFe Fiscal
+
+// Principais Recursos:
+* Sistema SaSS MultiEmpresa
+* Envio de notas XML direto do seu sistema para a Nuvem Fiscal
+* Controle total de todas as empresas
+* Controle total das Notas emitidas / Canceladas / Inutilizadas / Carta de Correção
+* Relatórios de Notas
+* Filtro de pesquisas
+* Download de notas
+* e muito mais...
+
+
+// Código fonte em Lavarel
+// Banco de dados MySQL
+// Demo com código fonte em Delphi
+// API de integração para qualquer linguagem 

@@ -1,0 +1,26 @@
+.DS_Store
+Thumbs.db
+
+# Delphi local/build artifacts
+*.dproj.local
+*.identcache
+demodelphi/Win32/
+demodelphi/Win64/
+demodelphi/*.xml
+
+# Local credentials and fiscal documents
+src/.env
+src/storage/app/**/*.xml
+*.pfx
+*.p12
+*.pem
+*.key
+
+# Runtime files
+src/vendor/
+src/storage/framework/cache/data/*
+src/storage/framework/sessions/*
+src/storage/framework/views/*
+src/storage/logs/*.log
+src/bootstrap/cache/*.php
+
